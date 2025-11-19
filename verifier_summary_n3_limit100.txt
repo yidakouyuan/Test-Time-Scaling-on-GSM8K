@@ -1,0 +1,9 @@
+
+C.1 VERIFIER RESULTS (n=3+1, limit=100)
+-----------------------------------
+📊 Quality (准确率): 93.00%
+⏱️ Latency (平均耗时): 32.61 s/题
+💰 Cost    (平均开销): 1879.2 tokens/题
+-----------------------------------
+Total items processed: 100
+Total correct: 93

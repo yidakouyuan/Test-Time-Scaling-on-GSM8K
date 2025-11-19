@@ -1,0 +1,9 @@
+
+C.1 BASELINE RESULTS (n=1, limit=100)
+-----------------------------------
+📊 Quality (准确率): 94.00%
+⏱️ Latency (平均耗时): 8.33 s/题
+💰 Cost    (平均开销): 296.4 tokens/题
+-----------------------------------
+Total items processed: 100
+Total correct: 94

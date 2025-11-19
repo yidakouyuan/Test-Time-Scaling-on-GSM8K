@@ -1,0 +1,9 @@
+
+C.1 REFLECTION RESULTS (n=1+1+1, limit=100)
+-----------------------------------
+📊 Quality (准确率): 80.00%
+⏱️ Latency (平均耗时): 29.96 s/题
+💰 Cost    (平均开销): 1852.0 tokens/题
+-----------------------------------
+Total items processed: 100
+Total correct: 80

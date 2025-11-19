@@ -1,0 +1,9 @@
+
+C.1 SC RESULTS (n=5, limit=100)
+-----------------------------------
+📊 Quality (准确率): 94.00%
+⏱️ Latency (平均耗时): 42.10 s/题
+💰 Cost    (平均开销): 1476.5 tokens/题
+-----------------------------------
+Total items processed: 100
+Total correct: 94
